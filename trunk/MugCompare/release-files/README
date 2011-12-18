@@ -1,0 +1,18 @@
+MugCompare 1.0
+--------------
+
+MugCompare is flexible database comparator tool, based on Java and JDBC.
+
+Usage:
+
+java -jar mugcompare.jar 
+
+   Parameters
+    --driverConfigFile=mydriverconfigfile.xml
+    --databaseCompareFile=mydatabasefile.xml
+    --outputFile=myoutputfile.txt
+    --outputFileType=txt (or xml)
+
+
+Author: Leandro Nunes (@nunesleandro)
+Website: http://mugcompare.googlecode.com
